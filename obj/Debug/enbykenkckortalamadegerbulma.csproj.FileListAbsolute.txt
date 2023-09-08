@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\bin\Debug\enbykenkckortalamadegerbulma.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\bin\Debug\enbykenkckortalamadegerbulma.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\bin\Debug\enbykenkckortalamadegerbulma.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\enbykenkckortalamadegerbulma\obj\Debug\enbykenkckortalamadegerbulma.pdb
